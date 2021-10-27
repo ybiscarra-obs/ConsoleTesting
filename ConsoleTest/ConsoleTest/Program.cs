@@ -12,6 +12,7 @@ namespace ConsoleTest
         {
             Console.WriteLine("Testing new feature");
             Console.WriteLine("Testing new feature2");
+            Console.WriteLine("Testing new feature3");
         }
     }
 }
